@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch:css": "tailwindcss  build ./css/css.css -o ./dist/tailwind.css"
+    "devs": "vite"
   },
   "keywords": [],
   "author": "",
