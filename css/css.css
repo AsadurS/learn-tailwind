@@ -1,5 +1,10 @@
 @tailwind base;
 @tailwind components;
-
+#about_us #context h2 span{
+    
+    text-decoration: underline;
+    text-decoration-color: #007bff;
+    
+}
 @tailwind utilities;
 
